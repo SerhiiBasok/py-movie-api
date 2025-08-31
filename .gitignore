@@ -23,6 +23,7 @@ staticfiles/
 
 # PyCharm
 .idea/
+.idea
 *.iml
 *.iws
 
